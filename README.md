@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musaibdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="musaibdeveloper" /> </p>
 
-- 🌱 I’m currently learning **MERN STACk**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 📫 How to reach me **syedmusaib428@gmail.com**
 
