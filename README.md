@@ -8,6 +8,8 @@
 
 - 📝 I regularly write articles on https://www.threads.net/@abdul_saboor428
 
+- Meduim : https://medium.com/@syedmusaib428
+
 - 📫 How to reach me **syedmusaib428@gmail.com**
 
 - ⚡ Fun fact **I'm funny and learner.**
