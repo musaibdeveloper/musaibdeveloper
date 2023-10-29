@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musaibdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="musaibdeveloper" /> </p>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 MERN STACK DEVELOPER
 
 - 📝 I regularly write articles on https://www.threads.net/@abdul_saboor428
 
@@ -25,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musaibdeveloper&" alt="musaibdeveloper" /></p>
 
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me <a href="https://wa.link/3gzpi"> ✉️ syedmusaib428@gmail.com<a> ! 
+
