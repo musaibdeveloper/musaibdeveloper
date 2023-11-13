@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 📝 I regularly write articles on [Threads. @31580996](Threads. @31580996)
+- 📝 I regularly write articles on https://www.threads.net/@abdul_saboor428
 
 - 📫 How to reach me **syedmusaib428@gmail.com**
 
