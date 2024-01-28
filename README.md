@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musaibdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="musaibdeveloper" /> </p>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 MERN STACK DEVELOPER 👨‍💻
 
-- 📝 I regularly write articles on https://www.threads.net/@abdul_saboor428
+- 📝As a MERN stack developer, I build awesome websites using MongoDB, Express.js, React, and Node.js. Turning ideas into smooth digital experiences is my thing. 😎 
 
 - 📫 How to reach me **syedmusaib428@gmail.com**
 
